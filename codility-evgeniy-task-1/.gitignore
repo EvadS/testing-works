@@ -95,7 +95,3 @@ local.properties
 
 
 hs_err_pid*
-
-/src/main/resources/application-local.properties
-/src/main/resources/application-local.properties
-/src/main/resources/AwsCredentials.properties
